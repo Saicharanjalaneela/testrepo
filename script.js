@@ -4,4 +4,5 @@ document.write("<li>Java Programming</li>");
 document.write("<li>Database Management System</li>");
 document.write("<li>Operating Systems</li>");
 document.write("<li>Digital Proficiency</li>");
+document.write("<li>maths</li>);
 document.write("</ol>");
